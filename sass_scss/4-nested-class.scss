@@ -1,8 +1,7 @@
-//3-nested_tag.scss
 body {
-	color: #3D3D3D;
+  color: #3D3D3D; // Default text color for all elements inside body
 
-	.red{
-		color:#FF0000;
-	}
+  .red {
+    color: #FF0000; // Text color for elements with class .red
+  }
 }
